@@ -17,4 +17,4 @@ Vous pouvez ouvrir et modifier le fichier `.drawio` en ligne :
 
 Ce schéma peut servir :
 - Pour apprendre ou expliquer ce qu’est un NAS.
-- Pour créer une documentation technique ou pédagogique.
+- Pour créer une documentation pédagogique.
